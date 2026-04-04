@@ -2165,11 +2165,11 @@
         "key": "ZmpAYkxURh",
         "color": "FFFFFFFF",
         "image": "#",
-        "video": "https://traditionalnortheast.com/wp-content/uploads/2026/04/assamese-bihu-bohag-rangalibihu.mp4",
+        "video": "",
         "height": 0.54,
         "layout": "background",
         "isScrollable": false,
-        "showVolumeButton": true
+        "showVolumeButton": false
     },
     "Drawer": {
         "logo": "https://traditionalnortheast.com/wp-content/uploads/2025/03/Traditioanl_NorthEast_Logo.png-scaled-1-medium.png",
