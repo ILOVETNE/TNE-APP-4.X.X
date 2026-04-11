@@ -23,7 +23,7 @@
 "borderRadius":10,
 "heightButton":60,
 "marginBottom":5,
-"backgroundColor":""
+"backgroundColor":"#6e0008"
 },
 {
 "font":"Roboto",
@@ -2169,10 +2169,10 @@
 "Background":{
 "fit":"contain",
 "key":"ZmpAYkxURh",
-"color":"FFB40202",
+"color":null,
 "image":"#",
-"video":"https://traditionalnortheast.com/wp-content/uploads/2026/04/Rangali_Bihu_Video.mp4",
-"height":0.56,
+"video":"https://traditionalnortheast.com/wp-content/uploads/2026/04/Rangali_Bihu_Video_1.mp4",
+"height":0.58,
 "layout":"background",
 "isScrollable":false,
 "showVolumeButton":false
@@ -2449,4 +2449,4 @@
 "backgroundColor":null,
 "backgroundImage":null
 },
-"Datetime":"2026-04-11T18:45:50.423775"}
+"Datetime":"2026-04-11T18:50:32.065328"}
