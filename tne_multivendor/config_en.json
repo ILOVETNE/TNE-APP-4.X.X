@@ -2172,10 +2172,10 @@
 "color":null,
 "image":"#",
 "video":"https://traditionalnortheast.com/wp-content/uploads/2026/04/Rangali_Bihu_Video_1.mp4",
-"height":0.58,
+"height":0.575,
 "layout":"background",
 "isScrollable":false,
-"showVolumeButton":false
+"showVolumeButton":true
 },
 "Drawer":{
 "logo":"https://traditionalnortheast.com/wp-content/uploads/2025/03/Traditioanl_NorthEast_Logo.png-scaled-1-medium.png",
@@ -2449,4 +2449,4 @@
 "backgroundColor":null,
 "backgroundImage":null
 },
-"Datetime":"2026-04-11T18:50:32.065328"}
+"Datetime":"2026-04-11T18:57:42.415733"}
