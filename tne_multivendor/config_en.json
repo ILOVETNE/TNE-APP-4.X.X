@@ -23,7 +23,7 @@
 "borderRadius":10,
 "heightButton":60,
 "marginBottom":5,
-"backgroundColor":""
+"backgroundColor":"#6e0008"
 },
 {
 "font":"Roboto",
@@ -1829,7 +1829,7 @@
 "Setting":{
 "FontFamily":"Roboto Flex",
 "FontHeader":"Roboto",
-"StickyHeader":true,
+"StickyHeader":false,
 "TabBarConfig":{
 "color":null,
 "enable":true,
@@ -2449,4 +2449,4 @@
 "backgroundColor":null,
 "backgroundImage":null
 },
-"Datetime":"2026-04-11T18:36:16.108036"}
+"Datetime":"2026-04-11T18:40:29.344355"}
